@@ -1,0 +1,28 @@
+.img2{
+    filter:grayscale(5) ;
+
+}
+
+.img3{
+    filter: blur(10px);
+}
+
+.img4{
+    filter: brightness(0.25);
+}
+
+.img5{
+    filter: hue-rotate(180deg);
+}
+
+.img6{
+    filter: invert(0.2);
+}
+
+.img7{
+    filter: opacity(0.3);
+}
+
+.img8 {
+    filter: contrast(0.5);
+}
